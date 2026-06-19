@@ -16,7 +16,7 @@
 name       : Ghanshyam Kumawat
 degree     : M.Sc. Computer Applications (Final Year)
 university : Indira University (SOIT), Pune
-education  : BCA — Sri Balaji University (CGPA: 7.45)
+education  : BCA — Sri Balaji University 
 role       : Aspiring Full-Stack Developer & Data Analyst
 targeting  : TCS | Wipro | Infosys | Cognizant | Fresher Roles
 interests  : Web Development · Data Analytics · Problem Solving · Cricket
@@ -25,7 +25,6 @@ interests  : Web Development · Data Analytics · Problem Solving · Cricket
 - 🔭 Currently building **ShopEase** — a full-stack e-commerce platform (Spring Boot + React + MySQL + JWT)
 - 🌱 Learning **Spring Boot**, **Power BI**, and **System Design**
 - 💡 Passionate about turning data into insights and ideas into products
-- 🎯 Actively preparing for **service-based IT placements 2025**
 - ⚡ Fun fact: I debug code better with chai ☕
 
 ---
