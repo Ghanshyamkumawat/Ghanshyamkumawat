@@ -32,16 +32,23 @@ interests  : Web Development · Data Analytics · Problem Solving · Cricket
 ## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🛒 ShopEase — E-Commerce Platform</h3>
-      <p>A full-stack e-commerce web app with product management, cart, JWT authentication, and order tracking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens"/>
-      </p>
+<tr>
+  <td width="50%">
+    <h3>🎓 Student Management System</h3>
+    <p>
+      A Java desktop application for managing student records with complete CRUD operations, JDBC connectivity, MySQL database integration, search functionality, and a user-friendly interface.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CRUD-28A745?style=flat-square"/>
+    </p>
+    <p>
+      <a href="https://github.com/Ghanshyamkumawat/StudentManagementSystem">
+        <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </p>      
     </td>
     <td width="50%">
       <h3>🚌 SchoolPool — Carpooling App</h3>
