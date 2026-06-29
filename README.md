@@ -64,10 +64,10 @@ interests  : Web Development · Data Analytics · Problem Solving · Cricket
         <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
       </p>
     </td>
-    </tr>
+   
 
     
-<tr>
+
   <td width="50%">
     <h3>📊 Data Analytics Project</h3>
     <p>
