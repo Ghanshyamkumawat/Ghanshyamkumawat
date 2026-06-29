@@ -50,16 +50,28 @@ interests  : Web Development · Data Analytics · Problem Solving · Cricket
       </a>
     </p>      
     </td>
-    <td width="50%">
-      <h3>🚌 SchoolPool — Carpooling App</h3>
-      <p>A smart carpooling system for school commutes with real-time tracking, payments & notifications.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=google-maps&logoColor=white"/>
-      </p>
-    </td>
+  
+   <td width="50%">
+  <h3>💼 Job Portal — Full Stack Web Application</h3>
+  <p>
+    A full-stack job portal that enables job seekers to search and apply for jobs, while recruiters can post and manage job listings. Features secure JWT authentication, role-based access, profile management, and responsive UI.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens"/>
+  </p>
+
+  <p>
+    <a href="https://github.com/Ghanshyamkumawat/job-portal-fullstack" target="_blank">
+      <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
+</td>
+    
   </tr>
   <tr>
     <td width="50%">
