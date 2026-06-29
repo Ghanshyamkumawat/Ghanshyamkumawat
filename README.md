@@ -69,9 +69,9 @@ interests  : Web Development · Data Analytics · Problem Solving · Cricket
     
 
   <td width="50%">
-  <h3>📊 Data Analytics Project</h3>
+  <h3>📊 Customer Shopping Behavior Analysis</h3>
   <p>
-    Customer Shopping Behavior Analysis (3,900 records) — Data cleaning using Python & Pandas, MySQL integration, business analysis, Power BI dashboard with DAX measures, customer segmentation, revenue analysis, and business insights.
+     (3,900 records) Data cleaning using Python & Pandas, MySQL integration, business analysis, Power BI dashboard with DAX measures, customer segmentation, revenue analysis, and business insights.
   </p>
 
   <p>
