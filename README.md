@@ -69,19 +69,21 @@ interests  : Web Development · Data Analytics · Problem Solving · Cricket
     
 
   <td width="50%">
-    <h3>📊 Data Analytics Project</h3>
-    <p>
-      Customer Shopping Behavior Analysis (3,900 records) — Data cleaning using Python & Pandas, PostgreSQL integration, SQL business analysis, Power BI dashboard with DAX measures, customer segmentation, revenue analysis, and business insights.
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DAX-FFB000?style=flat-square"/>
-    </p>
-  </td>
+  <h3>📊 Data Analytics Project</h3>
+  <p>
+    Customer Shopping Behavior Analysis (3,900 records) — Data cleaning using Python & Pandas, MySQL integration, business analysis, Power BI dashboard with DAX measures, customer segmentation, revenue analysis, and business insights.
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+    <img src="https://img.shields.io/badge/DAX-FFB000?style=flat-square"/>
+  </p>
+</td>
 </tr>
 </table>
 
