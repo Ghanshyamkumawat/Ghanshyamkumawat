@@ -66,16 +66,29 @@ interests  : Web Development · Data Analytics · Problem Solving · Cricket
     </td>
     <td width="50%">
       <h3>📊 Data Analytics Projects</h3>
-      <p>Online Retail & Spotify (114K tracks) analysis — Python, Power BI dashboards, SQL, DAX measures & Chart.js visualizations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+
+<p><strong>Customer Shopping Behavior Analysis</strong></p>
+
+<p>
+Analyzed <strong>3,900 customer purchase records</strong> using <strong>Python, PostgreSQL, SQL, and Power BI</strong> to uncover customer spending patterns, product performance, subscription trends, and business insights.
+</p>
+
+<ul>
+  <li>🧹 Cleaned and preprocessed data using <strong>Pandas</strong> (missing value imputation, feature engineering, column standardization).</li>
+  <li>🗄️ Loaded cleaned data into <strong>PostgreSQL</strong> for business analysis.</li>
+  <li>📈 Wrote complex SQL queries for revenue analysis, customer segmentation, top-rated products, repeat buyers, and subscription behavior.</li>
+  <li>📊 Built an interactive <strong>Power BI Dashboard</strong> with KPIs, DAX measures, filters, and business visualizations.</li>
+  <li>💡 Generated actionable business recommendations for customer retention, loyalty programs, discount optimization, and targeted marketing.</li>
+</ul>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-FFB000?style=flat-square"/>
+</p>>
 
 ---
 
