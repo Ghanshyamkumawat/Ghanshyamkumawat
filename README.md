@@ -90,8 +90,14 @@ interests  : Web Development · Data Analytics · Problem Solving · Cricket
     <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
     <img src="https://img.shields.io/badge/DAX-FFB000?style=flat-square"/>
   </p>
+   <p>
+    <a href="https://github.com/Ghanshyamkumawat/Customer_Shopping_Behavior" target="_blank">
+      <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+  </p>
 </td>
 </tr>
+
 </table>
 
 ---
